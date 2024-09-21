@@ -72101,7 +72101,7 @@ A.qA.prototype={}
 A.qI.prototype={}
 A.CE.prototype={
 M(a){var s,r,q,p,o=null,n=t.w,m=A.aP(a,o,n).w
-n=A.aP(a,o,n).w.a.a<800?0.7:0.85
+n=A.aP(a,o,n).w.a.a<800?0.8:0.9
 s=m.a.b*n
 n=$.afi()
 m=A.ajj(!1,B.Av,!0,!1,s,new A.pT(o),1)
